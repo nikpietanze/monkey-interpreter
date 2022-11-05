@@ -5,4 +5,4 @@
 Thorsten Ball walks us through creating an interpreter for his language, Monkey,
 in Go.
 
-I may end up writing this in multiple languages. ¯\_(ツ)_/¯
+I may end up writing this in multiple languages. ¯\\_(ツ)_/¯
